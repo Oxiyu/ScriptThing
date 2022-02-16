@@ -3725,9 +3725,20 @@ end)
 
 
 
-Player:Button("Trash Talker X",function()
+Player:Button("Trash Talker [t]",function()
  loadstring(game:HttpGet("https://pastebin.com/raw/90MA6HRQ", true))()
 end)
+
+Player:Button("Anti-AFK",function()
+loadstring(game:HttpGet("https://pastebin.com/raw/aVgjcMBM"))()
+end)
+
+Player:Button("Chat-Spy,function()
+loadstring(game:HttpGet("https://pastebin.com/raw/yuaPqDW8"))()
+end)
+
+
+
 
 
 local Credits= Win:Tab('Credits')
