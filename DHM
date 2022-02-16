@@ -3733,7 +3733,7 @@ Player:Button("Anti-AFK",function()
 loadstring(game:HttpGet("https://pastebin.com/raw/aVgjcMBM"))()
 end)
 
-Player:Button("ChatSpy",function()
+Player:Button("Chat-Spy",function()
 loadstring(game:HttpGet("https://pastebin.com/raw/yuaPqDW8"))()
 end)
 
