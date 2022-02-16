@@ -3725,11 +3725,9 @@ end)
 
 
 
-Player:Button("Trash Talker (X)",function()
-    loadstring(game:HttpGet("https://pastebin.com/raw/EByCg0hQ", true))()
+Player:Button("Trash Talker X",function()
+ loadstring(game:HttpGet("https://pastebin.com/raw/90MA6HRQ", true))()
 end)
-
-
 
 
 local Credits= Win:Tab('Credits')
